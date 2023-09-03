@@ -23,7 +23,7 @@ export default function Navigation(){
         <Box>
             <NaviBox>
                 <Logo>
-
+                    <img src="https://github.com/takoyakki0609/movies/blob/main/assets/logo.png?raw=true" alt="Logo" />
                 </Logo>
                 <MenuList>
 
